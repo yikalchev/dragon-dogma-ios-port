@@ -1,6 +1,6 @@
 # Dragon's Dogma - Dark Arisen — Native on iOS and MacOS
 
-<!-- BANNER -->
+<p align="center"><img src="https://github.com/user-attachments/assets/9a1c9881-2608-499f-944b-c7dcb09acc67" alt="Dragon's Dogma: Dark Arisen — Native on iOS and MacOS" width="100%"></p>
 
 <p align="center"><strong>Unofficial port • No JIT required • Controller supported</strong></p>
 
