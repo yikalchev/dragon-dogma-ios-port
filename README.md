@@ -84,6 +84,6 @@ This public repository contains documentation only. The builds will be distribut
 
 ## Credits and legal notices
 
-The runtime builds on the [nxnative](https://github.com/seedds/nxnative) and [Touchline 23](https://github.com/ohxiaoguang/touchline23) projects and their respective upstream components. All original authors retain their rights and attribution. Third-party license requirements apply to any distributed binary; no proprietary game files, console keys, source trees, logs or private development assets are published in this repository.
+All original authors retain their rights and attribution. Third-party license requirements apply to any distributed binary; no proprietary game files, console keys, source trees, logs or private development assets are published in this repository.
 
 Dragon's Dogma: Dark Arisen and its trademarks belong to Capcom. This unofficial project is not affiliated with or endorsed by Capcom, Nintendo or Apple.
