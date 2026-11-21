@@ -8,7 +8,15 @@ Dragon's Dogma: Dark Arisen, the Nintendo Switch edition, running on Apple silic
 
 ## Project status
 
-**First release: v1.0.0 — in preparation.** Downloads will appear in [Releases](https://github.com/yikalchev/dragon-dogma-ios-port/releases) when they are published.
+**First release: v1.0.0.** The initial iOS and macOS builds are prepared for publication. Download them from [Releases](https://github.com/yikalchev/dragon-dogma-ios-port/releases) once the release is published.
+
+### v1.0.0 release notes
+
+- Initial native iOS/iPadOS and macOS builds with independent game-file selection.
+- Edge and Classic touch-layout presets, full-screen editor, external controller shortcuts and remapping.
+- Full Screen (stretch) and crop modes, adjustable output resolution, MetalFX and selectable anisotropic filtering.
+- Portable iOS/macOS save backups with validation and automatic pre-import backup.
+- App name: Dragon's Dogma - Dark Arisen. Package names: `DragonsDogma.ipa` and `DragonsDogma-macOS.zip`.
 
 ## Features
 
